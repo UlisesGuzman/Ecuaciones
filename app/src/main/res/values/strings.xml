@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ecuaciones</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+    <string name="calculate">calculate</string>
+    <string name="operation">operation</string>
+    <string name="operation1">operation1</string>
+    <string name="operation2">operation2</string>
+    <string name="insertX">first number</string>
+    <string name="insert_y">insertY</string>
+    <string name="inserta">insertA</string>
+    <string name="insertx">insertX</string>
+    <string name="insertab">insertaB</string>
+    <string-array name="operations">
+        <item>operation1</item>
+
+    </string-array>
+</resources>
